@@ -1,0 +1,87 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    background-image: url(images/456476.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 150px;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+h1 {
+    font-size: 70px;
+    text-shadow: 0 0 10px #fbfbfb, 0 0 20px #000000, 0 0 30px #706c9a;
+}
+
+#question {
+    width: 700px;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: antiquewhite;
+    text-shadow: 0 0 10px #5c6e85, 0 0 20px #5448af, 0 0 30px #0313c6;
+    border-radius: 100px;
+    flex-wrap: wrap;
+    padding-left: 120px;
+    align-items: center;
+}
+
+#answers {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding: 20px;
+}
+
+.option-btn {
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    box-shadow: 0 0 5px white, 0 0 10px white, 0 0 20px white, 0 0 40px white;
+    text-shadow: 0 0 5px white, 0 0 10px white, 0 0 20px white, 0 0 40px white;
+    font-size: larger;
+    font-weight: 700;
+    border-radius: 30px;
+}
+
+.option-btn:active {
+    box-shadow: 0 0 5px rgb(197, 13, 13), 0 0 10px rgb(200, 5, 5), 0 0 20px rgb(20, 1, 1), 0 0 40px rgb(197, 17, 17);
+}
+
+#next-btn {
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #000000;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    box-shadow: 0 0 5px white, 0 0 10px white, 0 0 20px white, 0 0 40px white;
+}
+
+.home{
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    box-shadow: 0 0 5px rgb(221, 44, 44), 0 0 10px white, 0 0 20px rgb(225, 207, 9), 0 0 40px rgb(189, 10, 10);
+    text-shadow: 0 0 5px rgb(231, 173, 173), 0 0 10px rgb(244, 238, 238), 0 0 20px rgb(197, 223, 30), 0 0 40px rgb(179, 6, 6);
+    font-size: larger;
+    font-weight: 700;
+    border-radius: 30px;
+}

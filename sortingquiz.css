@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(images/house.jpg);
+    height: 100vh;
+    background-size: 1400px;
+
+}
+
+#container {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    flex-direction: column;
+}
+
+#question {
+    font-size: 50px;
+    background-color: black;
+    box-shadow: 0 0 10px #000000, 0 0 20px #000000, 0 0 30px #000000;
+    border-radius: 20px;
+    color: aliceblue;
+    text-shadow: 0 0 10px #000000, 0 0 20px #000000, 0 0 30px #000000;
+}
+
+#answer {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding-top: 60px;
+
+}
+
+.option-btn {
+    width: 500px;
+    height: 80px;
+    background: linear-gradient(90deg, red, blue, green, yellow);
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000000, 0 0 20px #000000, 0 0 30px #000000;
+}
+.home{
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    box-shadow: 0 0 5px rgb(8, 8, 8), 0 0 10px rgb(0, 0, 0), 0 0 20px rgb(8, 8, 8), 0 0 40px rgb(0, 0, 0);
+    text-shadow: 0 0 5px rgb(255, 255, 255), 0 0 10px rgb(244, 238, 238), 0 0 20px rgb(255, 255, 255), 0 0 40px rgb(255, 255, 255);
+    font-size: larger;
+    font-weight: 700;
+    border-radius: 30px;
+}

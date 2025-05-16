@@ -1,0 +1,103 @@
+[
+    {
+        "q": "What is Harry Potter's middle name?",
+        "option": ["James", "Sirius", "Albus", "John"],
+        "correctAns": "James"
+    },
+    {
+        "q": "Which house at Hogwarts does Harry belong to?",
+        "option": ["Hufflepuff", "Ravenclaw", "Gryffindor", "Slytherin"],
+        "correctAns": "Gryffindor"
+    },
+    {
+        "q": "What animal is Hermione's Patronus?",
+        "option": ["Otter", "Stag", "Rabbit", "Cat"],
+        "correctAns": "Otter"
+    }
+    ,
+    {
+        "q": "What is the name of the train that takes students to Hogwarts?",
+        "option": ["Knight Bus", "Hogwarts Express", "Durmstrang Carriage", "Thestral Carriage"],
+        "correctAns": "Hogwarts Express"
+    },
+    {
+        "q": "What type of creature is Dobby?",
+        "option": ["House-elf", "Goblin", "Hippogriff", "Werewolf"],
+        "correctAns": "House-elf"
+    },
+    {
+        "q": "Who is the Half-Blood Prince?",
+        "option": ["Harry Potter", "Draco Malfoy", "Severus Snape", "Tom Riddle"],
+        "correctAns": "Severus Snape"
+    },
+    {
+        "q": "Which spell is used to summon objects?",
+        "option": ["Expelliarmus", "Lumos", "Accio", "Obliviate"],
+        "correctAns": "Accio"
+    },
+    {
+        "q": "What is the name of Hagrid's pet dragon?",
+        "option": ["Norbert", "Fang", "Fluffy", "Aragog"],
+        "correctAns": "Norbert"
+    },
+    {
+        "q": "Which of these is NOT a Horcrux?",
+        "option": ["Nagini", "The Sword of Gryffindor", "Tom Riddle’s Diary", "Ravenclaw’s Diadem"],
+        "correctAns": "The Sword of Gryffindor"
+    },
+    {
+        "q": "What position does Harry play in Quidditch?",
+        "option": ["Keeper", "Chaser", "Beater", "Seeker"],
+        "correctAns": "Seeker"
+    },
+    {
+        "q": "Who was the Prisoner of Azkaban?",
+        "option": ["Bellatrix Lestrange", "Sirius Black", "Remus Lupin", "Peter Pettigrew"],
+        "correctAns": "Sirius Black"
+    },
+    {
+        "q": "What is the name of the Weasleys' house?",
+        "option": ["The Burrow", "Grimmauld Place", "Shell Cottage", "Hogwarts"],
+        "correctAns": "The Burrow"
+    },
+    {
+        "q": "Which potion allows the drinker to take the form of someone else?",
+        "option": ["Felix Felicis", "Polyjuice Potion", "Amortentia", "Draught of Living Death"],
+        "correctAns": "Polyjuice Potion"
+    },
+    {
+        "q": "Who killed Dumbledore?",
+        "option": ["Draco Malfoy", "Lord Voldemort", "Severus Snape", "Bellatrix Lestrange"],
+        "correctAns": "Severus Snape"
+    },
+    {
+        "q": "What is Voldemort’s real name?",
+        "option": ["Salazar Slytherin", "Tom Marvolo Riddle", "Gellert Grindelwald", "Lucius Malfoy"],
+        "correctAns": "Tom Marvolo Riddle"
+    },
+    {
+        "q": "What magical creature pulls the Hogwarts carriages?",
+        "option": ["Hippogriffs", "Thestrals", "Centaurs", "Phoenixes"],
+        "correctAns": "Thestrals"
+    },
+    {
+        "q": "What is the core of Harry Potter's wand?",
+        "option": ["Dragon heartstring", "Phoenix feather", "Unicorn hair", "Basilisk fang"],
+        "correctAns": "Phoenix feather"
+    },
+    {
+        "q": "What form does Luna Lovegood's Patronus take?",
+        "option": ["Rabbit", "Horse", "Otter", "Hare"],
+        "correctAns": "Hare"
+    },
+    {
+        "q": "What does the Marauder’s Map show?",
+        "option": ["The Forbidden Forest", "The entire castle and its inhabitants", "Secret rooms in Hogwarts", "The location of Horcruxes"],
+        "correctAns": "The entire castle and its inhabitants"
+    },
+    {
+        "q": "Who was the first to escape from Azkaban?",
+        "option": ["Sirius Black", "Barty Crouch Jr.", "Bellatrix Lestrange", "Fenrir Greyback"],
+        "correctAns": "Sirius Black"
+    }
+]

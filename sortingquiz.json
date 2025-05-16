@@ -1,0 +1,38 @@
+[
+    {
+        "q": "If you discovered a secret passage at Hogwarts, what would you do?",
+        "option": [
+            "Report it to a professor",
+            "Research its history and purpose",
+            "Tell your friends and explore together",
+            "Use it to your advantage discreetly"
+        ]
+    },
+    {
+        "q": "Which of these qualities do you value the most?",
+        "option": [
+            "Loyalty and kindness",
+            "Intelligence and curiosity",
+            "Bravery and determination",
+            "Ambition and resourcefulness"
+        ]
+    },
+    {
+        "q": "If you had to pick a magical creature as a companion, which would you choose?",
+        "option": [
+            "A loyal and friendly Niffler",
+            "A wise and mysterious Phoenix",
+            "A brave and fierce Hippogriff",
+            "A cunning and stealthy Basilisk"
+        ]
+    },
+    {
+        "q": "What would be your approach in a duel?",
+        "option": [
+            "Defend and protect first",
+            "Analyze and strategize",
+            "Go on the offensive immediately",
+            "Find a clever way to win without fighting"
+        ]
+    }
+]

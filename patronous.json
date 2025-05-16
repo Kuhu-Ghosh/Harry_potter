@@ -1,0 +1,57 @@
+[
+    {
+        "q": "What drives your actions in difficult moments?",
+        "option": [
+            "Wisdom and destiny",         
+            "Courage and protection",     
+            "Loyalty to your group",      
+            "Optimism and adaptability",  
+            "Cleverness and speed",       
+            "Calm and poise"              
+        ]
+    },
+    {
+        "q": "What role do you usually take in a team?",
+        "option": [
+            "The visionary and guide",    
+            "The fearless leader",        
+            "The dependable backbone",   
+            "The cheerful motivator",      
+            "The agile problem solver",    
+            "The graceful mediator"       
+        ]
+    },
+    {
+        "q": "How do you respond to threats or challenges?",
+        "option": [
+            "Rely on ancient inner strength", 
+            "Stand your ground boldly",     
+            "Protect others with strategy",  
+            "Use wit and humor to disarm",    
+            "Outsmart and outrun the threat", 
+            "Stay composed and de-escalate" 
+        ]
+    },
+    {
+        "q": "Pick the environment that feels most like home:",
+        "option": [
+            "A mountaintop under starlight",  
+            "A quiet forest clearing",        
+            "Snowy woods with others around",  
+            "A riverside in spring",           
+            "A wild meadow at dawn",         
+            "A still lake at sunset"           
+        ]
+    },
+    {
+        "q": "Which trait do you most resonate with?",
+        "option": [
+            "Rebirth and resilience",        
+            "Honor and bravery",               
+            "Loyalty and instinct",          
+            "Joy and cleverness",              
+            "Alertness and agility",         
+            "Elegance and serenity"           
+        ]
+    }
+]

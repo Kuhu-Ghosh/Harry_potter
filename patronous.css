@@ -1,0 +1,75 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+@keyframes abc{
+    100% {
+      transform: translateX(0); 
+    }
+  }
+
+#container {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('images/expecto.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.dark-overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 70px;
+    z-index: 1;
+}
+
+#questions {
+    text-shadow: 0 0 10px #fbfbfb, 0 0 20px #1b72db, 0 0 30px #047ee9;
+    font-size: 50px;
+    color: #fbfbfb;
+}
+
+#answers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.option-btn{
+    background-color: transparent;
+    box-shadow: 0 0 10px #fbfbfb, 0 0 20px #1b72db, 0 0 30px #047ee9 ;
+    color: aliceblue;
+    font-size:30px;
+    border-radius:10px;
+}
+
+#poop{
+    z-index: 2;
+}
+
+.home{
+    box-shadow: 0 0 10px #fbfbfb, 0 0 20px #1b72db, 0 0 30px #047ee9 ;
+    color: aliceblue;
+    font-size:30px;
+    border-radius:10px;
+    background-color: black;
+}

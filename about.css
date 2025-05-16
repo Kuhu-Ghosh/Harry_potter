@@ -1,0 +1,118 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+@keyframes abc{
+    100% {
+      transform: translateX(0); 
+    }
+  }
+  .container1{
+    background-color:transparent;
+    display: flex;
+    justify-content:center;
+}
+
+ol{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+ol li{
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 70px;
+    margin: 0px;
+}
+
+ol li button{
+    background-color:transparent;
+    color: aliceblue;
+    font-size:15px;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 150px;
+    height: 50px;
+    box-shadow: 0 0 10px #b77b0c, 0 0 20px #d0ba11, 0 0 30px #984108, 0 0 40px #d48f03;
+    text-shadow: 0 0 10px #b77b0c, 0 0 20px #d0ba11, 0 0 30px #984108, 0 0 40px #d48f03;
+    font-size: 15px;
+    font-weight: bold;
+    color: #0c0702;
+    cursor: pointer;
+
+}
+
+.boss{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.book {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    width: 150px;
+    height: 150px;
+    font-size: 18px;
+    line-height: 30px;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 5px white, 0 0 10px white, 0 0 20px white, 0 0 40px white;
+    font-weight: bolder;
+}
+
+.a {
+    background-image: url(https://assets.mycast.io/posters/harry-potter-and-the-philosophers-stone-fan-casting-poster-137675-medium.jpg?1634110053);
+    background-size: cover;
+    
+}
+
+.b {
+    background-image: url(https://image.tmdb.org/t/p/original/csOv5H7R2zdnKaYuTrGVWohmo8d.jpg);
+    background-size:cover;
+}
+.c{
+    background-image: url(https://siskiyou.sou.edu/wp-content/uploads/2020/03/4825108788.jpg);
+    background-size: cover;
+}
+.d{
+    background-image: url(https://images3.alphacoders.com/113/1130062.jpg);
+    background-size: cover;
+}
+.e{
+    background-image: url(https://image.tmdb.org/t/p/original/zhUOI1yDQu0Fa3neL4yPb1o9ByF.jpg);
+    background-size: cover;
+}
+.f{
+    background-image: url(https://i0.wp.com/www.my-sf.com/wp-content/uploads/2016/09/Harry-Potter-and-the-Half-Blood-Prince-theatrical-teaser-poster.jpg?fit=1350%2C2000);
+    background-size: cover;
+}
+.g{
+    background-image: url(http://images4.fanpop.com/image/photos/22700000/Deathly-Hallows-Part-2-Action-Poster-harry-potter-22731860-1600-2366.jpg);
+    background-size: cover;
+}
+
+.heading h1{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    transform: translateX(-100%);
+    animation: abc 2s forwards;
+    padding: 20px;
+    font-size: 70px;
+
+}
+
+.about{
+    width: 1000px;
+    text-align: justify;
+    padding: 50px;
+    font-size: 30px;
+}
